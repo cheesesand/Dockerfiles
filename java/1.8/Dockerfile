@@ -1,5 +1,5 @@
-FROM baekjoon/onlinejudge-base:14.04
-MAINTAINER Baekjoon Choi <baekjoonchoi@gmail.com>
+FROM cheesesand/judge-base:24.04
+MAINTAINER cheesesand <choijoung1479@gmail.com>
 
 RUN add-apt-repository -y ppa:webupd8team/java
 RUN apt-get update

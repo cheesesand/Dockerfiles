@@ -1,4 +1,4 @@
-[Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-algol68)
+Docker Repository
 
 # Algol 68 
 

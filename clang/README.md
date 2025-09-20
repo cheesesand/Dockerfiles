@@ -1,4 +1,4 @@
-[Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-clang)
+Docker Repository
 
 # C (Clang) 
 

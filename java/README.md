@@ -1,4 +1,4 @@
-[Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-java)
+Docker Repository
 
 # Java 6 
 
