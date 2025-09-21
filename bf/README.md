@@ -1,4 +1,4 @@
-[Docker Repository](https://registry.hub.docker.com/u/baekjoon/onlinejudge-bf)
+Docker Repository
 
 # Brainfuck 
 
